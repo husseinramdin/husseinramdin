@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @husseinramdin
 - 👀 I’m interested in python,HTML, CSS, and javaScript
-- 🌱 I’m currently learning pytyhon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me IG: @hussein_ramdin     whatsapp: +255688686983
 - 😄 Pronouns: ...
