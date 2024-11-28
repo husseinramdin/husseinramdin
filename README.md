@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @husseinramdin
-- 👀 I’m interested in python,HTML, CSS, and javaScript
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me IG: @hussein_ramdin     whatsapp: +255688686983
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm **Hussein Ramadhan** 🖥️
 
-<!---
-husseinramdin/husseinramdin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 Based in Tanzania  
+🎨 Passionate about art, development, and photography  
+💻 Specializing in **Python**, **HTML**, **CSS**, **JavaScript**, and exploring **React** & **Laravel**  
+🎓 Pursuing a Bachelor's degree in IT  
+
+---
+
+### 💡 What I'm Working On:
+- Developing creative web applications
+- Painting projects inspired by "Mama Africa" 🌍
+- Enhancing my skills in React.js and Laravel
+
+---
+
+### 🌟 Skills:
+- **Languages**: Python, JavaScript, PHP  
+- **Web Development**: HTML, CSS, Bootstrap, React.js  
+- **Tools & Platforms**: Git, MySQL, VS Code  
+
+---
+
+### 📚 Current Learning Goals:
+- Master **React.js** and **Laravel**  
+- Create dynamic and responsive web applications  
+- Dive deeper into backend development  
+
+---
+
+### 🤝 Let's Collaborate:
+- Open to work on web applications, AI projects, and artistic collaborations  
+- DM me on Instagram: [@hussein_ramdin](https://www.instagram.com/hussein_ramdin/)  
+- Or reach out via WhatsApp: +255688686983  
+
+---
+
+✨ *"Creating art through code and culture."* ✨
