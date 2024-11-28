@@ -35,4 +35,4 @@
 
 ---
 
-✨ *"Creating art through code and culture."* ✨
+
