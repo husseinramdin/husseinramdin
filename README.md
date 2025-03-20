@@ -2,7 +2,7 @@
 
 🌍 Based in Tanzania  
 🎨 Passionate about art, development, and photography  
-💻 Specializing in **Python**, **HTML**, **CSS**, **JavaScript**, and exploring **React** & **Laravel**  
+💻 Specializing in **Python**,  **JavaScript**, and exploring **React** & **Laravel**  
 🎓 Pursuing a Bachelor's degree in IT  
 
 ---
