@@ -22,8 +22,6 @@
 ---
 
 ### 📚 Current Learning Goals:
-- Master **React.js** and **Laravel**  
-- Create dynamic and responsive web applications  
 - Dive deeper into backend development  
 
 ---
