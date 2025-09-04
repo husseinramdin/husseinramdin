@@ -16,7 +16,7 @@
 
 ### 🌟 Skills:
 - **Languages**: Python, JavaScript, PHP  
-- **Web Development**: HTML, CSS, Bootstrap, React.js  
+- **Web Development**: HTML, CSS, Bootstrap, React.js ,React native  ,node.js(express.js,nest.js)
 - **Tools & Platforms**: Git, MySQL, VS Code  
 
 ---
