@@ -39,7 +39,7 @@ I believe the best developers are also creatives. When I'm not coding:
 
 - Advanced backend development with Node.js
 - System design and scalable architectures
-- Content creation and visual design for digital platforms
+- Content creation and visual design for digital platforms.
 
 ---
 
