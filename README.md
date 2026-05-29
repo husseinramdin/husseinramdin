@@ -1,6 +1,6 @@
 # Hey, I'm Hussein Ramadhan 👋🌍
 
-> Developer · Painter · Photographer · Creator — based in Zanzibar & Dar es Salaam, Tanzania 🇹🇿
+> Developer · Painter · Photographer · Creator — based in Zanzibar & Dar es Salaam, Tanzania. 🇹🇿
 
 ---
 
