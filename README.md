@@ -8,7 +8,7 @@
 
 I build web applications and love exploring the intersection of **technology and creativity**. My stack includes Python, JavaScript, PHP, React, Laravel, and Node.js — but I'm just as likely to be behind a camera or a canvas as I am behind a keyboard.
 
-- 🔭 Currently building **Practical Manager** — a full-stack business management app (React + Nest.js)
+- 🔭 Currently building **Practical Manager** — a full-stack business management app (React + Nest.js.)
 - 🎓 IT Graduate — Dar es Salaam, 2025
 - 🧑‍🏫 Teaching IT concepts to others while deepening my own knowledge through self-study
 - 🌱 Diving deeper into backend architecture, APIs, and scalable systems
